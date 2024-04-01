@@ -8,7 +8,7 @@
     </product1>
 
     <product2>
-        <id>20</id>
+        <id>200</id>
         <name>HTC</name>
         <unitPrice>65300</unitPrice>
         <stock>35</stock>
